@@ -1,0 +1,185 @@
+[{
+    "name": "OPPO F21s Pro 5G",
+    "price": 31999,
+    "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      },
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
+    "price": 3799,
+    "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+    "ratings": 3.5,
+    "images": [
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Flipkart",
+    "stock": 9
+  },
+  {
+    "name": "Dell Inspiron 3511 Laptop",
+    "price": 42999,
+    "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
+    "ratings": 2,
+    "images": [
+      {
+        "image": "/images/products/3.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 3 Laptop",
+    "price": 70090,
+    "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/6.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "ASUS VivoBook 15 Laptop",
+    "price": 70990,
+    "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/7.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
+    "price": 2499,
+    "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/4.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "Campus Men's Maxico Running Shoes",
+    "price": 1999,
+    "description": "The high raised back cover with extra padding.",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "/images/products/5.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Ebay",
+    "stock": 6
+  },
+  {
+    "name": " Airpods pro 2 ",
+    "price": 24900,
+    "description": "AirPods Pro (2nd generation) with USB-C deliver up to 2x more Active Noise Cancellation than the previous generation, with Transparency mode that enables you to hear the world around you, and all-new Adaptive Audio that dynamically tailors noise control to your environment.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "/images/products/Airpods pro 2.jpeg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": "iphone 14 Pro Max ",
+    "price": 127999,
+    "description": "The Apple iPhone 14 Pro Max 5G comes with a 6.7-inch ProMotion technology touchscreen, features Crash Detection and a new Truedepth 48-megapixel front camera with Photonic Engine, an extra hour of video playback compared to last year's model and a new Action mode that provides smoother looking videos with better image stabilization.This is all powered by the Apple A16 Bionic chipset and 6GB of RAM.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/iphone 14 Pro Max.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Flipkart",
+    "stock": 9
+  },
+  {
+    "name": " Macbook Air M2 ",
+    "price": 99900,
+    "description": "MacBook Air. Don't take it lightly.Supercharged by the next-generation M2 chip, the redesigned MacBook Air combines incredible performance and up to 18 hours of battery life into its strikingly thin aluminum enclosure.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/Macbook air M2.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Flipkart",
+    "stock": 9
+  },
+  {
+    "name": " Puma Unisex-adult's Sneaker ",
+    "price": 3999,
+    "description": "PRODUCT STORYA classic sneaker is always an easy pick to complete your casual outfit. The PUMA Baseline shoes have been created, keeping conventional sneaker design intact. Flaunting the branding on point are the PUMA wordmark on the tongue and the stitched PUMA Formstrip. Made of synthetic leather upper and rubber outsole to offer ease at every stride.DETAILSFully synthetic leather upperRubber outsole for gripPUMA basket design on the heel collarPUMA cat logo on the tongue",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/Puma.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Amazon",
+    "stock": 7
+  },
+  {
+    "name": " Samsung Galaxy S24 Ultra 5G AI Smartphone ",
+    "price": 134999,
+    "description": "The new Galaxy S24 series offers a unique user experience with integrated Galaxy AI functions that simplify life. The new processors are designed specifically to enhance AI capabilities, productivity, and gaming performance, while being more energy-efficient.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/Galaxy S24 Ultra.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Flipkart",
+    "stock": 9
+  },
+  {
+    "name": " Apple Watch Ultra  ",
+    "price": 89900,
+    "description": "The most rugged and capable Apple Watch. Designed for outdoor adventures and supercharged workouts with a lightweight titanium case, extra-long battery life, and the brightest-ever display. Featuring double tap, a magical way to interact with Apple Watch, and Precision Finding to guide you to your iPhone.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "/images/products/Apple Watch Ultra.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 10
+  }]
